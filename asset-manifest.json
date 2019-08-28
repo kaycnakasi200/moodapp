@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moodapp/static/css/main.a9edeffc.chunk.css",
+    "main.js": "/moodapp/static/js/main.c4b79b12.chunk.js",
+    "main.js.map": "/moodapp/static/js/main.c4b79b12.chunk.js.map",
+    "runtime~main.js": "/moodapp/static/js/runtime~main.d742958c.js",
+    "runtime~main.js.map": "/moodapp/static/js/runtime~main.d742958c.js.map",
+    "static/js/2.9f1712b0.chunk.js": "/moodapp/static/js/2.9f1712b0.chunk.js",
+    "static/js/2.9f1712b0.chunk.js.map": "/moodapp/static/js/2.9f1712b0.chunk.js.map",
+    "index.html": "/moodapp/index.html",
+    "precache-manifest.921d25b34da30f584fede0497c00041a.js": "/moodapp/precache-manifest.921d25b34da30f584fede0497c00041a.js",
+    "service-worker.js": "/moodapp/service-worker.js",
+    "static/css/main.a9edeffc.chunk.css.map": "/moodapp/static/css/main.a9edeffc.chunk.css.map"
+  }
+}
