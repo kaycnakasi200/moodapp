@@ -1,0 +1,20 @@
+.navbar{
+    display:inline-block;
+    background-color:#ffff5a;
+    width:100%;
+    padding: 2px; 
+}
+
+.navlink{
+    float: left;
+    background-color:#ffff5a;
+    color:#ff79ff;
+    font-size: 20px;
+    padding: 5px 20px;
+}
+
+.navlink:hover{
+  color: black;
+  display: block;
+  background-color: azure;
+}

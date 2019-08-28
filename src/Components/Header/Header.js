@@ -4,21 +4,15 @@ import {Link} from 'react-router-dom';
 
 class Header extends Component {
     render() {
-     var  Navbar ={
-         display:'',
-         backgroundColor:'#76ffff',
-         color:'#ff79ff',
-         fontSize:25,
-         padding:10
-     }
-
-
       return (
-          <div style={{display: 'block',backgroundColor:'#444', fontSize:25, padding:20 }}>
-              <Link to="/" style ={Navbar}> Home </Link>
-              <Link to="/about"style={Navbar}> About </Link>
-              <Link to="/signin"style={Navbar}> Signin </Link>
-              <Link to="/signup" style={Navbar} > Signup </Link>
+          <div className="navbar">
+
+              <Link to="/" className="navlink"> Home </Link>
+              <Link to="/about" className="navlink"> About </Link>
+              <Link to="/categories"className="navlink"> categories </Link>
+              <Link to="/signin" className="navlink" style={{float: 'right'}}> Signin </Link>
+              <Link to="/signup" className="navlink"  style={{float: 'right'}}> Signup </Link>
+              <Link to="/profile" className="navlink" style={{float: 'right'}}> Profile </Link>
           </div>
       )
       }

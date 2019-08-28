@@ -1,0 +1,47 @@
+form{
+	max-width: 500px;
+	padding: 20px 12px 10px 20px;
+	border: 1px deshed #00b894;
+}
+.input-field{
+   box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	border: 1px solid #C2C2C2;
+	box-shadow: 1px 1px 4px #EBEBEB;
+	-moz-box-shadow: 1px 1px 4px #EBEBEB;
+	-webkit-box-shadow: 1px 1px 4px #EBEBEB;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	padding: 7px;
+    outline: none;
+}
+
+.input-field:focus{
+    border: 1px solid #FF8500
+}
+
+.btn {
+    border: none;
+	padding: 8px 15px 8px 15px;
+	background: #FF8500;
+	color: #222;
+	box-shadow: 1px 1px 4px #DADADA;
+	-moz-box-shadow: 1px 1px 4px #DADADA;
+	-webkit-box-shadow: 1px 1px 4px #DADADA;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    
+}
+
+.btn{
+    background-color: aquamarine;
+}
+
+label{
+    display: block;
+	margin: 0px 0px 15px 0px;
+}
+
